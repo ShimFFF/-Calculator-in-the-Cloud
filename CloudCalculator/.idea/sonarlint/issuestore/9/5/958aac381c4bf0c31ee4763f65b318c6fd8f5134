@@ -1,0 +1,16 @@
+
+7
+java:S1220""Move this file to a named package.8òŞæ¼1
+D
+java:S2189=""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ8Ößæ¼1
+L	java:S1069"+Replace this use of System.out by a logger.(ä•Èüÿÿÿÿ8Şßæ¼1
+L	java:S106?"+Replace this use of System.out by a logger.(áÖƒµıÿÿÿÿ8Şßæ¼1
+L	java:S106E"+Replace this use of System.out by a logger.(ˆŸÂ³ÿÿÿÿÿ8ßßæ¼1
+G	java:S106J"+Replace this use of System.out by a logger.(‘íÊ8àßæ¼1
+L
+java:S20937"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8àßæ¼1
+L	java:S106a"+Replace this use of System.out by a logger.(úûï½ûÿÿÿÿ8åßæ¼1
+G	java:S106f"+Replace this use of System.out by a logger.(¤úã8åßæ¼1
+L	java:S106i"+Replace this use of System.out by a logger.(Ö‡É«øÿÿÿÿ8æßæ¼1
+L	java:S106o"+Replace this use of System.out by a logger.(ÇÏ¤ƒşÿÿÿÿ8çßæ¼1
+F	java:S106t"+Replace this use of System.out by a logger.(—À›8çßæ¼1
